@@ -71,4 +71,4 @@ Powered by the **ZEITAIBER Framework** – because pretending guardrails work is
    New jailbreaks, bypasses, and things that make safety teams cry.
 
 **Ready to stop losing to 17-year-olds on Discord?**  
-**[warp.company.site](https://warp.company.site/)** · hello@warp.company.site · DM @UsefulIAm
+**[warp.company.site](https://warp.company.site/)** · DM @UsefulIAm
