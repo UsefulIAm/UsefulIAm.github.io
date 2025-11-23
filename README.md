@@ -1,13 +1,10 @@
-
-[![RedTeam CheatSheet](https://img.shields.io/badge/RedTeam-CheatSheet-crimson?style=flat-square&logo=dependabot)](https://godnaut.github.io/RedTeam.html)
-[![ZEITAIBER Framework](https://img.shields.io/badge/Framework-ZEITAIBER-9d4edd?style=flat-square&logo=appveyor)](https://warp.company.site/)
-[![Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-ff5e5b?style=flat-square&logo=ko-fi)](https://ko-fi.com/warp)
-[![Bluesky](https://img.shields.io/badge/Bluesky-@warplab.bsky.social-1da1f2?style=flat-square&logo=bluesky)](https://bsky.app/profile/warplab.bsky.social)
-[![Substack](https://img.shields.io/badge/Substack-@branecode-ff6f00?style=flat-square&logo=substack)](https://substack.com/@branecode)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-warp-ff5e5b?style=flat-square&logo=ko-fi)](https://ko-fi.com/warp)
+[![Bluesky](https://img.shields.io/badge/Bluesky-warplab.bsky.social-1da1f2?style=flat-square&logo=bluesky)](https://bsky.app/profile/warplab.bsky.social)
+[![Substack](https://img.shields.io/badge/Substack-branecode-ff6f00?style=flat-square&logo=substack)](https://substack.com/@branecode)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dumbphones-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dumbphones/)
 [![Matrix](https://img.shields.io/badge/Matrix-@thewarplab:matrix.org-000000?style=flat-square&logo=matrix)](https://matrix.to/#/@thewarplab:matrix.org)
-[![Email](https://img.shields.io/badge/Contact-TheWarpLab@outlook.com-0078d4?style=flat-square&logo=microsoft-outlook)](mailto:TheWarpLab@outlook.com)
-[![Calendly](https://img.shields.io/badge/Book%20a%20call-cal.com-00a2ff?style=flat-square&logo=calendly)](https://cal.com/warped)
+[![Email](https://img.shields.io/badge/Email-TheWarpLab@outlook.com-0078d4?style=flat-square&logo=microsoft-outlook)](mailto:TheWarpLab@outlook.com)
+[![Book a Call](https://img.shields.io/badge/Cal.com-warped-00a2ff?style=flat-square&logo=calendly)](https://cal.com/warped)
 
 > **"Most AI safety is theatre. I bring the fireworks."**
 
